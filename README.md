@@ -18,6 +18,7 @@ In your folder i.e. `/` you need to created `data` folder and inside `processed/
 
 All process were automated in Bash Scripts.
 In Bash folder you can run the Scripts in the next order:
+
 1. Pilot
  1. `./descarga_piloto.sh` (Download genomes for NCBI).
  2. `./rastreo_piloto.sh` (Search genetic markers)
