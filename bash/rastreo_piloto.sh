@@ -1,11 +1,8 @@
 #!/bin/bash
-#Script diseñado con el fin de sistematizar todo el proceso en la obtención de marcadores geneticos
-#para la prueba piloto del proyecto
-#Creado el 26-04-20015
+#Created: 26-04-20015
 #Autor: Daniel Pabón
 #email: daniel.epm12@gmail.com
-#EJECUTAR SIN sudo
-# Buscando marcadores, dados los genomas descargado
+# Search Genetic Markers
 echo "Busqueda de marcadores iniciada:"
 cd ~/Copy/proyecto/data/raw/prueba_piloto/genomas
 for a in $( ls )
@@ -30,4 +27,4 @@ for a in $(find -H *hmmsearch )
 do
   rm $a
 done
-echo "Busqueda de marcadores completa"
+echo "Search Complete"

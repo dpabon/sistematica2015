@@ -4,8 +4,7 @@
 #Creado el 26-04-20015
 #Autor: Daniel Pabón
 #email: daniel.epm12@gmail.com
-#EJECUTAR SIN sudo
-#Alineando marcadores
+#Alignment Markers
 cd ~/Copy/proyecto/data/processed/prueba_piloto/marcadores
 for a in $( ls )
 do
@@ -18,4 +17,4 @@ do
   rm $a
 done
 rm *.mask
-echo "Alineamientos completos"
+echo "Complete Alignments"
