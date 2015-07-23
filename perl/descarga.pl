@@ -53,7 +53,7 @@ my @genomas= ( #Copie los identificadores de los genomas
 'AM494475.1', #Orientia tsutsugamushi str. Boryong
 'AE017197.1', #Rickettsia typhi str. Wilmington
 'CP000237.1', #Neorickettsia sennetsu str. Miyayama
-'AY072044.1', #Wolbachia end. of Culex quin. Pel
+'AM999887.1', #Wolbachia end. of Culex quin. Pel
 'CP000107.1', #Ehrlichia canis str. Jake
 'CP000235.1', #Anaplasma phagocytophilum HZ
 'CP002130.1', #Candidatus Midichloria mitochondrii IricVA
@@ -63,7 +63,6 @@ my @genomas= ( #Copie los identificadores de los genomas
               #NPH Bacterium ***
 ##Clado SAR_11## Revisado
 'ADAC02000001.1', #Alphaproteobacterium HIMB114
-'CP002511.1', #Candidatus Pelagibacter sp. IMCC9063
 'CP001751.1', #Candidatus Puniceispirillum marinum IMCC1322
               #Candidatus Pelagibacter ubique SAR11 HTCC1002 ***
 #Clado Sphingomonadales# Revisado
