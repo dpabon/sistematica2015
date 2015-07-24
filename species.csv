@@ -2,6 +2,11 @@ GB,Organismo,Present_bayes,Out_group
 AE016825.1,Chromobacterium violaceum ATCC 12472 ,T,T
 CP000089.1,Dechloromonas aromatica RCB,T,T
 CP009685.1,Escherichia coli str. K-12 substr. MG1655,T,T
+AM286280.1,Francisella tularensis subsp. tularensis FSC198,F,T
+CR628337.1,Legionella pneumophila str. Lens,F,T
+CP002876.1,Nitrosomonas sp. Is79A3,F,T
+CP000744.1,Pseudomonas aeruginosa PA7 ,F,T
+AL646052.1,Ralstonia solanacearum GMI1000,F,T
 CP000697.1,Acidiphilium cryptum JF-5,T,F
 ADAC02000001.1,Alphaproteobacterium HIMB114,T,F
 CP000235.1,Anaplasma phagocytophilum HZ,T,F
@@ -50,11 +55,6 @@ CP000377.1,Ruegeria sp. TM1040,T,F
 CP000699.1,Sphingomonas wittichii RW1 ,T,F
 CP000781.1,Xanthobacter autotrophicus Py2 ,T,F
 AE008692.2,Zymomonas mobilis subsp. mobilis ZM4,T,F
-AM286280.1,Francisella tularensis subsp. tularensis FSC198,F,T
-CR628337.1,Legionella pneumophila str. Lens,F,T
-CP002876.1,Nitrosomonas sp. Is79A3,F,T
-CP000744.1,Pseudomonas aeruginosa PA7 ,F,T
-AL646052.1,Ralstonia solanacearum GMI1000,F,T
 AF538053.1,Monosiga brevicollis,F,F
 DS469507.1,Nematostella vectensis,F,F
 NA,Phytophthora infestans,F,F
