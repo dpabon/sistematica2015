@@ -17,8 +17,8 @@ sleep 1m
 chown danne *.fna
 
 perl ~/Copy/proyecto/bin/perl/descarga_Methylobacterium_chloromethanicum.pl
-cat CP001299.1.fna CP001300.1.fna CP001298.1.fna |grep -v Methylobacterium > Methylobacterium_extorquens_CM4.fna
-sed -i '1i >Methylobacterium_extorquens_CM4' Methylobacterium_extorquens_CM4.fna
+cat CP001299.1.fna CP001300.1.fna CP001298.1.fna |grep -v Methylobacterium > Methylobacterium_chloromethanicum_CM4.fna
+sed -i '1i >Methylobacterium_chloromethanicum_CM4' Methylobacterium_chloromethanicum_CM4.fna
 rm -r CP001299.1.fna CP001300.1.fna CP001298.1.fna
 sleep 1m
 chown danne *.fna
