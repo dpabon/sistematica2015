@@ -78,7 +78,7 @@ begin mrbayes;
   lset nst=6 rates=invgamma;
 	unlink statefreq=(all) revmat=(all) shape=(all) pinvar=(all);
 	report tratio=dirichlet;
-	mcmcp ngen= 5000000 relburnin=yes burninfrac=0.25 printfreq=100  samplefreq=100 nchains=4 savebrlens=yes checkpoint=yes;
+	mcmcp ngen= 2000000 relburnin=yes burninfrac=0.25 printfreq=100  samplefreq=100 nchains=2 savebrlens=yes checkpoint=yes;
 	mcmc;
 	sumt;
   sump;
