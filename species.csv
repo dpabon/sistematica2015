@@ -1,62 +1,62 @@
-GB,Organismo,Present_bayes,Out_group,
-AE016825.1,Chromobacterium violaceum ATCC 12472 ,T,T,
-CP000089.1,Dechloromonas aromatica RCB,T,T,
-CP009685.1,Escherichia coli str. K-12 substr. MG1655,T,T,
-AM286280.1,Francisella tularensis subsp. tularensis FSC198,F,T,
-CR628337.1,Legionella pneumophila str. Lens,F,T,
-CP002876.1,Nitrosomonas sp. Is79A3,F,T,
-CP000744.1,Pseudomonas aeruginosa PA7 ,F,T,
-AL646052.1,Ralstonia solanacearum GMI1000,F,T,
-CP000697.1,Acidiphilium cryptum JF-5,T,F,
-ADAC02000001.1,Alphaproteobacterium HIMB114,T,F,
-CP000235.1,Anaplasma phagocytophilum HZ,T,F,
-NA,Arabidopsis thaliana,T,F,
-NA,Asticcacaulis excentricus,T,F,
-BX897700.1,Bartonella quintana str. Tolouse,F,F,-
-NA,Candidatus Caedibacter acanthamoebae,T,F,
-CP002130.1,Candidatus Midichloria mitochondrii IricVA,T,F,
-NA,Candidatus Odysella thesalonicensis L13 ,T,F,
-NA,Candidatus Paracaedibacter acanthamoebae,T,F,
-NA,Candidatus Paracaedibacter symbious ,T,F,
-CP002511.1,Candidatus Pelagibacter sp. IMCC9063 ,T,F,
-NA,Candidatus Pelagibacter ubique SAR11 HTCC1002,T,F,
-CP001751.1,Candidatus Puniceispirillum marinum IMCC1322,T,F,
-CP000390.1,Chelativorans sp. BNC1,F,F,-
-NA,Cryptococcus neoformans,T,F,
-CP000107.1,Ehrlichia canis str. Jake ,T,F,
-CP004403.1,Endosymbiont of Acanthamoeba sp. UWC8,T,F,
-CP001189.1,Gluconabacter diazotrophicus PA15,T,F,
-CP000009.1,Gluconobacter oxydans 621H ,F,F,-
-CP000394.1,Granulibacter bethesdensis CGDNIH1,T,F,
-CP001678.1,Hirschia baltica ATCC 49814,T,F,
-CP002083.1,Hyphomicrobium denitrificans ATCC 51888 ,F,F,-
-CP000158.1,Hyphomonas neptunium ATCC 15444,T,F,
-CP000264.1,Jannaschia sp. CCS1,T,F,
-CP002224.1,Ketogulonicigenium vulgurae Y25,F,F,-
-AP007255.1,Magnetospirillum magneticum AMB-1 DNA ,T,F,
-CP000449.1,Maricaulis maris MCS10 .,T,F,
-NA,Methylobacterium chloromethanicum ,T,F,
-CP001280.1,Methylocella silvestris BL2,T,F,
-CP002382.1,Micavibrio aeruginosavorus ARL-13 ,T,F,
-CP000237.1,Neorickettsia sennetsu str. Miyayama,F,F,-
-NA,NPH Bacterium ,T,F,
-AM494475.1,Orientia tsutsugamushi str. Boryong,F,F,-
-NA,Paracoccus denitrificans PD1222,T,F,
-CP000774.1,Parvibaculum lavamentivorans DS-1 ,T,F,
-CP002156.1,Parvularcula bermudensis HTCC2503,F,F,-
-NA,Phenylobacterium zucineum HLK1 ,T,F,
-CP001622.1,Rhizobium leguminosarum bv. trifolii WSM1325 ,T,F,
-CP002292.1,Rhodomicrobium vannielii ATCC 17100,F,F,-
-CP002418.1,Rhodopseudomonas palustris DX-1,F,F,.
-CP000613.2,Rhodospirillum centenum SW,F,F,-
-CP000230.1,Rhodospirillum rubrum ATCC 11170,T,F,
-AE017197.1,Rickettsia typhi str. Wilmington ,T,F,
-CP000377.1,Ruegeria sp. TM1040,T,F,
-CP000699.1,Sphingomonas wittichii RW1 ,T,F,
-CP000781.1,Xanthobacter autotrophicus Py2 ,F,F,-
-AE008692.2,Zymomonas mobilis subsp. mobilis ZM4,T,F,
-AF538053.1,Monosiga brevicollis,F,F,
-DS469507.1,Nematostella vectensis,F,F,
-NA,Phytophthora infestans,F,F,
-NA,Spizellomyces punctatus,F,F,
-AM999887.1,Wolbachia end. of Culex quin. Pel,F,F,
+GB,Organismo,Present_bayes,Out_group
+AE016825.1,Chromobacterium violaceum ATCC 12472 ,T,T
+CP000089.1,Dechloromonas aromatica RCB,T,T
+CP009685.1,Escherichia coli str. K-12 substr. MG1655,T,T
+CP000697.1,Acidiphilium cryptum JF-5,T,F
+ADAC02000001.1,Alphaproteobacterium HIMB114,T,F
+CP000235.1,Anaplasma phagocytophilum HZ,T,F
+NA,Arabidopsis thaliana,T,F
+NA,Asticcacaulis excentricus,T,F
+NA,Candidatus Caedibacter acanthamoebae,T,F
+CP002130.1,Candidatus Midichloria mitochondrii IricVA,T,F
+NA,Candidatus Odysella thesalonicensis L13 ,T,F
+NA,Candidatus Paracaedibacter acanthamoebae,T,F
+NA,Candidatus Paracaedibacter symbious ,T,F
+CP002511.1,Candidatus Pelagibacter sp. IMCC9063 ,T,F
+NA,Candidatus Pelagibacter ubique SAR11 HTCC1002,T,F
+CP001751.1,Candidatus Puniceispirillum marinum IMCC1322,T,F
+NA,Cryptococcus neoformans,T,F
+CP000107.1,Ehrlichia canis str. Jake ,T,F
+CP004403.1,Endosymbiont of Acanthamoeba sp. UWC8,T,F
+CP001189.1,Gluconabacter diazotrophicus PA15,T,F
+CP000394.1,Granulibacter bethesdensis CGDNIH1,T,F
+CP001678.1,Hirschia baltica ATCC 49814,T,F
+CP000158.1,Hyphomonas neptunium ATCC 15444,T,F
+CP000264.1,Jannaschia sp. CCS1,T,F
+AP007255.1,Magnetospirillum magneticum AMB-1 DNA ,T,F
+CP000449.1,Maricaulis maris MCS10 .,T,F
+NA,Methylobacterium chloromethanicum ,T,F
+CP001280.1,Methylocella silvestris BL2,T,F
+CP002382.1,Micavibrio aeruginosavorus ARL-13 ,T,F
+NA,NPH Bacterium ,T,F
+NA,Paracoccus denitrificans PD1222,T,F
+CP000774.1,Parvibaculum lavamentivorans DS-1 ,T,F
+NA,Phenylobacterium zucineum HLK1 ,T,F
+CP001622.1,Rhizobium leguminosarum bv. trifolii WSM1325 ,T,F
+CP000230.1,Rhodospirillum rubrum ATCC 11170,T,F
+AE017197.1,Rickettsia typhi str. Wilmington ,T,F
+CP000377.1,Ruegeria sp. TM1040,T,F
+CP000699.1,Sphingomonas wittichii RW1 ,T,F
+AE008692.2,Zymomonas mobilis subsp. mobilis ZM4,T,F
+AM286280.1,Francisella tularensis subsp. tularensis FSC198,F,T
+CR628337.1,Legionella pneumophila str. Lens,F,T
+CP002876.1,Nitrosomonas sp. Is79A3,F,T
+CP000744.1,Pseudomonas aeruginosa PA7 ,F,T
+AL646052.1,Ralstonia solanacearum GMI1000,F,T
+BX897700.1,Bartonella quintana str. Tolouse,F,F
+CP000390.1,Chelativorans sp. BNC1,F,F
+CP000009.1,Gluconobacter oxydans 621H ,F,F
+CP002083.1,Hyphomicrobium denitrificans ATCC 51888 ,F,F
+CP002224.1,Ketogulonicigenium vulgurae Y25,F,F
+CP000237.1,Neorickettsia sennetsu str. Miyayama,F,F
+AM494475.1,Orientia tsutsugamushi str. Boryong,F,F
+CP002156.1,Parvularcula bermudensis HTCC2503,F,F
+CP002292.1,Rhodomicrobium vannielii ATCC 17100,F,F
+CP002418.1,Rhodopseudomonas palustris DX-1,F,F
+CP000613.2,Rhodospirillum centenum SW,F,F
+CP000781.1,Xanthobacter autotrophicus Py2 ,F,F
+AF538053.1,Monosiga brevicollis,F,F
+DS469507.1,Nematostella vectensis,F,F
+NA,Phytophthora infestans,F,F
+NA,Spizellomyces punctatus,F,F
+AM999887.1,Wolbachia end. of Culex quin. Pel,F,F
