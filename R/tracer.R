@@ -1,5 +1,5 @@
 cadena.1 <- read.delim("~/Copy/proyecto/data/raw/prueba_piloto/bayes/cadena.1.trace")
-Sys.sleep(10*60)
+Sys.sleep(30*60)
 cadena.1p <- read.delim("~/Copy/proyecto/data/raw/prueba_piloto/bayes/cadena.1.trace")
 cadena.2<- read.delim("~/Copy/proyecto/data/raw/prueba_piloto/bayes/cadena.2.trace")
 x11()
@@ -24,7 +24,7 @@ if (cadena.1==cadena.1p){
 #?Sys.sleep
 
 #head(cadena.1)
-plot(cadena.1)
+#plot(cadena.1)
 #x11()
 #par(mfrow=c(2,1))
 #plot(cadena.1$X.cycle, cadena.1$alpha, type="l") 
