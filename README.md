@@ -1,6 +1,6 @@
 ## Phylogenetic Reconstruction of Mitochondria using Protein sequences##
 
-To use the scripts you will required the next programs:
+To use the scripts you will required the following programs:
 
 - [**Amphora2**](https://github.com/martinwu/AMPHORA2)
 - [**Bioperl**](http://www.bioperl.org/wiki/Main_Page)
@@ -17,7 +17,7 @@ You need to replace `~/Copy/proyecto` by your folder direction i.e. `/`.
 In your folder i.e. `/` you need to create `data` folder and inside `processed/` `raw` folders i.e. `mkdir /data/ processed raw`
 
 All processes were automated in Bash Script.
-In Bash folder you can run the scripts in the next order:
+In Bash folder you can run the scripts following this order:
 
 1. Pilot
  1. `./descarga_piloto.sh` (Download genomes for NCBI).
